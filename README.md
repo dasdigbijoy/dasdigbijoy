@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on microserivces with Spring boot and Spring Cloud and AWS.  
 - 🌱 I’m currently learning  AWS , different Caching mechanism and cloud technologies 
--- 💬 Ask me about Java, Team leadership
+- 💬 Ask me about Java, Team leadership
 - 🏗️ Looking to collaborate on -  my blog (under construction) [Technology Stack](https://dasdigbijoy.webador.com/)  
 - 📫 How to reach me: [Linkedin@ddas](https://www.linkedin.com/in/d-das-pmp/)
 - 😄 Pronouns: He/Him/His
